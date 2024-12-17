@@ -8,7 +8,7 @@ enum FileType {
     RegularFile,
     Directory,
 }
-
+//
 // Inode Structure
 #[derive(Clone, Debug)]
 struct Inode {
